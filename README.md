@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Techpreneur: Building a Digital Empire</h1>
-  <img src="insert_link_to_profile_picture_here" alt="Profile Picture" width="200px">
+  <img src="https://cdn.pixabay.com/photo/2019/04/06/05/17/wallpaper-4106667_1280.jpg" alt="Profile Picture" width="200px">
 
   <p>👋 Welcome to my digital playground! I'm Yunus Siraju, hailing from a country known for its prized Tanzanite gemstones. I'm not your average student; I'm a visionary entrepreneur who excels at turning complex problems into profitable solutions. My journey is about building more than just code; it's about creating a digital empire. 🚀</p>
 </div>
