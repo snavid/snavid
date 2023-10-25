@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h1>Yunus Siraju 🌟</h1>
+  <h1>Techpreneur: Building a Digital Empire</h1>
   <img src="insert_link_to_profile_picture_here" alt="Profile Picture" width="200px">
 
   <p>👋 Hello there! I'm Yunus Siraju, hailing from a country known for its prized Tanzanite gemstones. I'm not your average student; I'm a creative thinker who excels at turning complex problems into profitable solutions. As an entrepreneur, I consistently embark on private projects and contribute to the open-source community. 🚀</p>
