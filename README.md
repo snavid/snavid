@@ -55,7 +55,7 @@ Feel free to reach out for any tech-related inquiries, collaborations, or just a
 
 ## 🌐 Personal Portfolio
 
-🚀 **Explore my portfolio website [here](comming Soon)** to witness the projects I've undertaken, all part of my grand vision to make an impact in the tech world.
+🚀 **Explore my portfolio website [here](comming-Soon)** to witness the projects I've undertaken, all part of my grand vision to make an impact in the tech world.
 
 <!--## 🏢 Companies I Own
 
