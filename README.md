@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  ...
 -->
-# Yunus Siraju 🌟
 
 <div align="center">
   <h1>Yunus Siraju 🌟</h1>
