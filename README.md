@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning :
 - **Machine learning**
-- **Python Web Development**
+- **Python Web Scrapping and Automation**
 - **Data Science**
 - **JavaScript**
 
