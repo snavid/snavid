@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h1>Techpreneur: Building a Digital Empire</h1>
+  <h1>Building a Digital Empire</h1>
   <img src="https://th.bing.com/th/id/R.2b475a9e65af162e87c8828596ffd905?rik=t352CwXJ8sJz%2fw&pid=ImgRaw&r=0" alt="Profile Picture" width="200px">
 
   <p>👋 Welcome to my digital playground! I'm Yunus Siraju, a computer science student pursuing a Bachelor's degree at Kampala International University in Tanzania. I'm not your average student; I'm a visionary entrepreneur who excels at turning complex problems into profitable solutions. My journey is about building more than just code; it's about creating a digital empire. 🚀</p>
