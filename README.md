@@ -6,7 +6,7 @@
 
 ## 🧠 Technical Excellence
 
-- 🔗 **Expertise**: I'm a computer science student and a Python programmer at Kampala International University in Tanzania. I'm also a visionary entrepreneur who solves complex problems with innovative solutions. My goal is to create a digital empire that transcends boundaries. 🚀
+- 🔗 **Expertise**: I’m a bachelor computer science student and a Python programmer. I’m also a visionary entrepreneur who solves complex problems with innovative solutions. My goal is to create a digital empire that transcends boundaries. 🚀
 
 - 💻 **Tech Stack**: My skills include:
   - **Full-stack web development** with **C++, C, Python, JavaScript**
