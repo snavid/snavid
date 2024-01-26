@@ -9,9 +9,9 @@
 - 🔗 **Expertise**: I’m a computer science student with a passion for Python programming. I have a strong foundation in Python and C, and I'm constantly expanding my knowledge in data science with Pandas and NumPy. I also have experience in web development using Flask and JavaScript frameworks like AngularJS. Currently, I'm diving deep into TypeScript, Dart, and Flutter, as well as Django and FastAPI. Additionally, I'm exploring the fascinating world of AI, particularly in LLM, and collaborating with OpenAI to create intelligent agents that enhance user experience and interactions. My goal is to build a digital empire that pushes the boundaries of technology. 🚀
 
 - 💻 **Tech Stack**: My skills include:
-  - **Full-stack web development** with **C++, C, Python, JavaScript**
+  - **Full-stack web development** with Python, JavaScript, Typescript**
   - **Data science** and **Artificial Intelligence** with **Python**
-  - **Frameworks: Flask, AngularJS, Django, TypeScript, Dart, Flutter, FastAPI**
+  - **Frameworks: Flask, AngularJS, Angular, Django, TypeScript, Dart, Flutter, FastAPI**
 
 - 🌱 **Currently Learning**:
   - Machine learning
