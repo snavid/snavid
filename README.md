@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Building a Digital Empire</h1>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=snavid)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=snavid)](https://github.com/ryo-ma/github-profile-trophy)}]!]
 ---
 
 ## 🧠 Technical Excellence
