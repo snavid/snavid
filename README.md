@@ -28,7 +28,7 @@
 - 🤖 **AI Enthusiast**: I'm deeply passionate about Artificial Intelligence and its potential to revolutionize various industries.
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=snavid)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📞 Get in Touch
 
