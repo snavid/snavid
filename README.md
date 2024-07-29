@@ -2,7 +2,7 @@
   <h1>Building a Digital Empire</h1>
 </div>
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=YourGitHubUsername&show_icons=true&locale=en&theme=tokyonight" alt="YourGitHubUsername" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=snavid&show_icons=true&locale=en&theme=tokyonight" alt="snavid" /></p>
 
 ## 🧠 Technical Excellence
 
