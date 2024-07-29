@@ -82,7 +82,7 @@ I'm always open to tech-related inquiries, collaborations, or simply having frie
 
 ## 🌐 Personal Portfolio
 
-🚀 **Visit my portfolio website [here](https://www.auriumlabs.com)** to explore my projects and discover my vision to make a significant impact in the tech world.
+🚀 **Visit my portfolio website [here](https://yunus.auriumlabs.com)** to explore my projects and discover my vision to make a significant impact in the tech world.
 
 ---
 
