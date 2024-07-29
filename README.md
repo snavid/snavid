@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Building a Digital Empire</h1>
+  <h1>Building A Digital Empire</h1>
 </div>
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=snavid&show_icons=true&locale=en&theme=tokyonight" alt="snavid" /></p>
