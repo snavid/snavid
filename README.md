@@ -1,13 +1,3 @@
-<div align="center">
-  <h1>Building A Digital Empire</h1>
-</div>
-
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=snavid&show_icons=true&locale=en&theme=tokyonight" alt="snavid" /></p>
-
-Here's a playful and cool README for your profile:
-
----
-
 # 👋 Welcome to My World! 
 
 Hey there! I’m **Yunus**, a **software developer**, **entrepreneur**, and **freelancer** with a passion for turning ideas into solutions. I don’t care much about the technology I use—as long as it gets the job done **simply** and **effectively**.
@@ -15,6 +5,8 @@ Hey there! I’m **Yunus**, a **software developer**, **entrepreneur**, and **fr
 ## 💡 What Do I Do?
 
 I dive deep into **coding**, **problem-solving**, and building projects that actually make a difference. I run a startup called **[Aurium Labs](http://www.auriumlabs.com)**, where we **ignite software innovation**. Fancy, right?
+
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=snavid&show_icons=true&locale=en&theme=tokyonight" alt="snavid" /></p>
 
 ## 🧠 What Drives Me?
 
