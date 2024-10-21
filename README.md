@@ -8,6 +8,16 @@ I dive deep into **coding**, **problem-solving**, and building projects that act
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=snavid&show_icons=true&locale=en&theme=tokyonight" alt="snavid" /></p>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=snavid_visitor_badge_simple&left_color=royalblue&right_color=black"  />
+
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" alt="Skills and tools"/>
+  </a>
+</p>
+
 ## 🧠 What Drives Me?
 
 I’m all about **deep thinking** and **innovative solutions**. My goal? Solve problems, break barriers, and simplify complexity. I approach every challenge with an open mind and the determination to see it through.
