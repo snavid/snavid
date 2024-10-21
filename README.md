@@ -26,7 +26,11 @@ I’m all about **deep thinking** and **innovative solutions**. My goal? Solve p
 
 Music and code go together like coffee and mornings. You’ll often catch me jamming to some tunes while writing the next big piece of software—or debugging the last one. Either way, music keeps me in the zone!
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/snavid/snavid/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/snavid/snavid/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/snavid/snavid/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/snavid/snavid/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 💸 The Bank Balance? 
 
