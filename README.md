@@ -27,9 +27,9 @@ I’m all about **deep thinking** and **innovative solutions**. My goal? Solve p
 Music and code go together like coffee and mornings. You’ll often catch me jamming to some tunes while writing the next big piece of software—or debugging the last one. Either way, music keeps me in the zone!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/snavid/snavid/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/snavid/snavid/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/snavid/snavid/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## 💸 The Bank Balance? 
