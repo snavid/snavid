@@ -14,7 +14,7 @@ I dive deep into **coding**, **problem-solving**, and building projects that act
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,cpp,linux,cmake,docker,git,github,js,linux,mysql,py,flask,dart,c,nodejs,redis,vscode,postman,figma" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=ubuntu,docker,git,github,js,linux,mysql,py,flask,dart,c,nodejs,redis,vscode,postman,figma" alt="Skills and tools"/>
   </a>
 </p>
 
