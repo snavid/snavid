@@ -26,6 +26,8 @@ I’m all about **deep thinking** and **innovative solutions**. My goal? Solve p
 
 Music and code go together like coffee and mornings. You’ll often catch me jamming to some tunes while writing the next big piece of software—or debugging the last one. Either way, music keeps me in the zone!
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/snavid/snavid/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg)
+
 ## 💸 The Bank Balance? 
 
 Currently, my **net worth is a whopping -$2000**. That's right—**negative**. But hey, every entrepreneur starts somewhere, right? It just means I’m investing in my dreams (and ramen noodles for dinner).
