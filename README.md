@@ -57,51 +57,6 @@ My general workflow looks something like:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 HudumaBot
-
-**AI Customer Service Platform**
-
-Built and launched an AI customer-service platform that allows businesses to create intelligent agents capable of understanding natural conversation and calling tools to complete tasks.
-
-**Built, deployed and self-hosted from the ground up.**
-
-🌐 `hudumabot.com`
-
----
-
-### 🧠 Shedulex
-
-**Intelligent Dynamic Timetable Management System**
-
-My final-year research project at KIUT.
-
-Built using a **microservices architecture**, Kong API Gateway, Redis-backed messaging and a genetic-algorithm scheduling engine.
-
-The system achieved:
-
-* ✅ Zero hard-constraint violations
-* 📊 92–96% soft-constraint satisfaction
-* ⚡ Full timetable generation in 2–4 minutes
-* 🤖 Integrated LangGraph AI agent named **Sora**
-* 🧪 Automated testing & documented code
-
-Basically, I taught a computer to solve timetable problems that humans usually solve with **Excel, arguments, and a lot of coffee. ☕😂**
-
----
-
-### 🌐 KIUT Digital Club Platform
-
-Team lead & lead engineer.
-
-Led a student development team from **zero → production**, building and hosting a platform for club competitions, quizzes and administration.
-
-Because apparently running a university club wasn't enough work.
-So naturally, we built software for it. 😅
-
----
-
 ## 🛠️ My Toolbox
 
 <p align="center">
